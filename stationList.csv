@@ -1,0 +1,956 @@
+ID,NAME,latitude
+72,W 52 St & 11 Ave,40.76727216
+79,Franklin St & W Broadway,40.71911552
+82,St James Pl & Pearl St,40.71117416
+83,Atlantic Ave & Fort Greene Pl,40.68382604
+116,W 17 St & 8 Ave,40.74177603
+119,Park Ave & St Edwards St,40.69608941
+120,Lexington Ave & Classon Ave,40.68676793
+127,Barrow St & Hudson St,40.73172428
+128,MacDougal St & Prince St,40.72710258
+143,Clinton St & Joralemon St,40.69239502
+144,Nassau St & Navy St,40.69839895
+146,Hudson St & Reade St,40.71625008
+150,E 2 St & Avenue C,40.7208736
+151,Cleveland Pl & Spring St,40.722103786686034
+157,Henry St & Atlantic Ave,40.69089272
+161,LaGuardia Pl & W 3 St,40.72917025
+164,E 47 St & 2 Ave,40.75323098
+167,E 39 St & 3 Ave,40.7489006
+168,W 18 St & 6 Ave,40.73971301
+173,Broadway & W 49 St,40.76068327096592
+174,E 25 St & 1 Ave,40.7381765
+195,Liberty St & Broadway,40.70905623
+212,W 16 St & The High Line,40.74334935
+216,Columbia Heights & Cranberry St,40.70037867
+217,Old Fulton St,40.70277159
+223,W 13 St & 7 Ave,40.73781509
+224,Spruce St & Nassau St,40.71146364
+228,E 48 St & 3 Ave,40.7546011026
+229,Great Jones St,40.72743423
+236,St Marks Pl & 2 Ave,40.7284186
+237,E 11 St & 2 Ave,40.73047309
+238,Bank St & Washington St,40.7361967
+239,Willoughby St & Fleet St,40.69196566
+241,DeKalb Ave & S Portland Ave,40.68981035
+242,Carlton Ave & Flushing Ave,40.697787
+244,Willoughby Ave & Hall St,40.69196035
+245,Myrtle Ave & St Edwards St,40.69327018
+247,Perry St & Bleecker St,40.73535398
+248,Laight St & Hudson St,40.72185379
+249,Harrison St & Hudson St,40.71870987
+250,Lafayette St & Jersey St,40.72456089
+251,Mott St & Prince St,40.72317958
+252,MacDougal St & Washington Sq,40.73226398
+254,W 11 St & 6 Ave,40.73532427
+257,Lispenard St & Broadway,40.71939226
+258,DeKalb Ave & Vanderbilt Ave,40.68940747
+259,South St & Whitehall St,40.70122128
+260,Broad St & Bridge St,40.70365182
+261,Johnson St & Gold St,40.69474881
+262,Washington Park,40.6917823
+264,Maiden Ln & Pearl St,40.70706456
+265,Stanton St & Chrystie St,40.72229346
+267,Broadway & W 36 St,40.75097711
+268,Howard St & Centre St,40.71910537
+270,Adelphi St & Myrtle Ave,40.69308257
+274,Lafayette Ave & Fort Greene Pl,40.68691865
+275,Washington Ave & Greene Ave,40.68650065
+276,Duane St & Greenwich St,40.71748752
+278,Concord St & Bridge St,40.69766564
+280,E 10 St & 5 Ave,40.73331967
+281,Grand Army Plaza & Central Park S,40.7643971
+282,Kent Ave & S 11 St,40.707644944175705
+284,Greenwich Ave & 8 Ave,40.7390169121
+285,Broadway & E 14 St,40.73454567
+289,Monroe St & Classon Ave,40.6845683
+291,Madison St & Montgomery St,40.713126
+293,Lafayette St & E 8 St,40.73020660529954
+295,Pike St & E Broadway,40.71406667
+297,E 15 St & 3 Ave,40.734232
+298,3 Ave & Schermerhorn St,40.68683208
+301,E 2 St & Avenue B,40.72217444
+302,Avenue D & E 3 St,40.72082834
+303,Mercer St & Spring St,40.72362738
+304,Broadway & Battery Pl,40.70463334
+305,E 58 St & 3 Ave,40.76095756
+307,Canal St & Rutgers St,40.71427487
+308,St James Pl & Oliver St,40.71307916
+309,Murray St & West St,40.7149787
+310,State St & Smith St,40.68926942
+311,Norfolk St & Broome St,40.7172274
+312,Allen St & Stanton St,40.722055
+313,Washington Ave & Park Ave,40.69610226
+315,South St & Gouverneur Ln,40.70355377
+316,Fulton St & William St,40.70955958
+317,E 6 St & Avenue B,40.72453734
+319,Fulton St & Broadway,40.711066
+320,Leonard St & Church St,40.717571
+321,Cadman Plaza E & Red Cross Pl,40.69991755
+323,Lawrence St & Willoughby St,40.69236178
+324,DeKalb Ave & Hudson Ave,40.689888
+325,E 19 St & 3 Ave,40.73624527
+326,E 11 St & 1 Ave,40.72953837
+327,Vesey Pl & River Terrace,40.7153379
+328,Watts St & Greenwich St,40.72405549
+330,Reade St & Broadway,40.71450451
+331,Pike St & Monroe St,40.71173107
+332,Cherry St,40.71219906
+334,W 20 St & 7 Ave,40.74238787
+335,Washington Pl & Broadway,40.72903917
+336,Sullivan St & Washington Sq,40.73047747
+339,Avenue D & E 12 St,40.72580614
+340,Madison St & Clinton St,40.71269042
+341,Stanton St & Mangin St,40.71782143
+342,Columbia St & Rivington St,40.71739973
+343,Clinton Ave & Flushing Ave,40.69794
+344,Monroe St & Bedford Ave,40.6851443
+346,Bank St & Hudson St,40.73652889
+347,Greenwich St & W Houston St,40.728846
+349,Rivington St & Ridge St,40.71850211
+350,Clinton St & Grand St,40.71559509
+351,Front St & Maiden Ln,40.70530954
+353,S Portland Ave & Hanson Pl,40.68539567
+354,Emerson Pl & Myrtle Ave,40.69363137
+355,Bayard St & Baxter St,40.71602118
+356,Bialystoker Pl & Delancey St,40.71622644
+358,Christopher St & Greenwich St,40.73291553
+359,E 47 St & Park Ave,40.75510267
+360,William St & Pine St,40.70717936
+361,Allen St & Hester St,40.71605866
+362,Broadway & W 37 St,40.75172632
+363,West Thames St,40.70834698
+364,Lafayette Ave & Classon Ave,40.68900443
+366,Clinton Ave & Myrtle Ave,40.693261
+367,E 53 St & Lexington Ave,40.75828065
+368,Carmine St & 6 Ave,40.73038599
+369,Washington Pl & 6 Ave,40.73224119
+372,Franklin Ave & Myrtle Ave,40.694546087246025
+373,Willoughby Ave & Walworth St,40.69331716
+376,John St & William St,40.70862144
+377,6 Ave & Canal St,40.72243797
+379,W 31 St & 7 Ave,40.749156
+380,W 4 St & 7 Ave S,40.73401143
+383,Greenwich Ave & Charles St,40.735238
+385,E 55 St & 2 Ave,40.75797322
+386,Centre St & Worth St,40.71494807
+387,Centre St & Chambers St,40.71273266
+388,W 26 St & 10 Ave,40.749717753
+389,Broadway & Berry St,40.71044554
+390,Duffield St & Willoughby St,40.69221589
+391,Clark St & Henry St,40.69760127
+392,Jay St & Tech Pl,40.695065
+393,E 5 St & Avenue C,40.72299208
+394,E 9 St & Avenue C,40.72521311
+396,Lefferts Pl & Franklin Ave,40.680342423
+397,Fulton St & Clermont Ave,40.68415748
+398,Atlantic Ave & Furman St,40.69165183
+399,Lafayette Ave & St James Pl,40.68851534
+400,Pitt St & Stanton St,40.71926081
+401,Allen St & Rivington St,40.72019576
+402,Broadway & E 22 St,40.7403432
+403,E 2 St & 2 Ave,40.72502876
+405,Washington St & Gansevoort St,40.739323
+406,Hicks St & Montague St,40.69512845
+408,Market St & Cherry St,40.71076228
+410,Suffolk St & Stanton St,40.72066442
+411,E 6 St & Avenue D,40.72228087
+412,Forsyth St & Canal St,40.7158155
+415,Pearl St & Hanover Square,40.7047177
+416,Cumberland St & Lafayette Ave,40.68753406
+417,Barclay St & Church St,40.71291224
+418,Front St & Gold St,40.70224
+419,Carlton Ave & Park Ave,40.69580705
+420,Clermont Ave & Lafayette Ave,40.68764484
+421,Clermont Ave & Park Ave,40.69573398
+422,W 59 St & 10 Ave,40.770513
+423,W 54 St & 9 Ave,40.76584941
+426,West St & Chambers St,40.71754834
+427,Bus Slip & State St,40.701907
+432,E 7 St & Avenue A,40.72621788
+434,9 Ave & W 18 St,40.74317449
+435,W 21 St & 6 Ave,40.74173969
+436,Hancock St & Bedford Ave,40.68216564
+437,Macon St & Nostrand Ave,40.6809833854
+438,St Marks Pl & 1 Ave,40.72779126
+439,E 4 St & 2 Ave,40.7262807
+440,E 45 St & 3 Ave,40.75255434
+442,W 27 St & 7 Ave,40.746647
+443,Bedford Ave & S 9 St,40.70853074
+445,E 10 St & Avenue A,40.72740794
+446,W 24 St & 7 Ave,40.74487634
+447,8 Ave & W 52 St,40.76370739
+448,W 37 St & 10 Ave,40.75660359
+450,W 49 St & 8 Ave,40.76227205
+453,W 22 St & 8 Ave,40.74475148
+454,E 51 St & 1 Ave,40.75455731
+455,1 Ave & E 44 St,40.75001986
+456,E 53 St & Madison Ave,40.7597108
+458,11 Ave & W 27 St,40.751396
+459,W 20 St & 11 Ave,40.746745
+460,S 4 St & Wythe Ave,40.71285887
+461,E 20 St & 2 Ave,40.73587678
+462,W 22 St & 10 Ave,40.74691959
+464,E 56 St & 3 Ave,40.75934501
+465,Broadway & W 41 St,40.75513557
+466,W 25 St & 6 Ave,40.74395411
+467,Dean St & 4 Ave,40.68312489
+468,Broadway & W 56 St,40.7652654
+469,Broadway & W 53 St,40.76344058
+470,W 20 St & 8 Ave,40.74345335
+471,Grand St & Havemeyer St,40.71286844
+472,E 32 St & Park Ave,40.7457121
+473,Rivington St & Chrystie St,40.72110063
+474,5 Ave & E 29 St,40.7451677
+476,E 31 St & 3 Ave,40.74394314
+477,W 41 St & 8 Ave,40.75640548
+478,11 Ave & W 41 St,40.76030096
+479,9 Ave & W 45 St,40.76019252
+480,W 53 St & 10 Ave,40.76669671
+481,S 3 St & Bedford Ave,40.71260486
+482,W 15 St & 7 Ave,40.73935542
+483,E 12 St & 3 Ave,40.73223272
+484,W 44 St & 5 Ave,40.75500254
+485,W 37 St & 5 Ave,40.75038009
+486,Broadway & W 29 St,40.7462009
+487,E 20 St & FDR Drive,40.73314259
+489,10 Ave & W 28 St,40.75066386
+490,8 Ave & W 33 St,40.751551
+491,E 24 St & Park Ave S,40.74096374
+492,W 33 St & 7 Ave,40.75019995
+493,W 45 St & 6 Ave,40.7568001
+494,W 26 St & 8 Ave,40.74734825
+495,W 47 St & 10 Ave,40.76269882
+496,E 16 St & 5 Ave,40.73726186
+497,E 17 St & Broadway,40.73704984
+499,Broadway & W 60 St,40.76915505
+500,Broadway & W 51 St,40.76228826
+501,FDR Drive & E 35 St,40.744219
+502,Henry St & Grand St,40.714211
+503,E 20 St & Park Ave,40.73827428
+504,1 Ave & E 16 St,40.73221853
+505,6 Ave & W 33 St,40.74901271
+507,E 25 St & 2 Ave,40.73912601
+508,W 46 St & 11 Ave,40.76341379
+509,9 Ave & W 22 St,40.7454973
+513,W 56 St & 10 Ave,40.768254
+514,12 Ave & W 40 St,40.76087502
+515,W 43 St & 10 Ave,40.76009437
+516,E 47 St & 1 Ave,40.75206862
+517,Pershing Square South,40.751581
+518,E 39 St & 2 Ave,40.74780373
+519,Pershing Square North,40.751873
+520,W 52 St & 5 Ave,40.75992262
+522,E 51 St & Lexington Ave,40.75714758
+523,W 38 St & 8 Ave,40.75466591
+525,W 34 St & 11 Ave,40.75594159
+526,E 33 St & 5 Ave,40.74765947
+528,2 Ave & E 31 St,40.74290902
+529,W 42 St & 8 Ave,40.7575699
+530,11 Ave & W 59 St,40.77149671054441
+531,Forsyth St & Broome St,40.71893904
+532,S 5 Pl & S 5 St,40.710451
+533,Broadway & W 38 St,40.75299641
+534,Water - Whitehall Plaza,40.70255065
+536,1 Ave & E 30 St,40.74144387
+539,Metropolitan Ave & Bedford Ave,40.71534825
+540,Lexington Ave & E 29 St,40.74311555376486
+545,E 23 St & 1 Ave,40.736502
+546,E 30 St & Park Ave S,40.74444921
+2000,Front St & Washington St,40.70255088
+2002,Wythe Ave & Metropolitan Ave,40.716887
+2003,1 Ave & E 18 St,40.733812191966315
+2005,Railroad Ave & Kay Ave,40.70531194
+2006,Central Park S & 6 Ave,40.76590936
+2008,Little West St & 1 Pl,40.70569254
+2009,Catherine St & Monroe St,40.71117444
+2010,Grand St & Greene St,40.72170005235607
+2012,E 27 St & 1 Ave,40.739445
+2017,E 43 St & 2 Ave,40.75022392
+2021,W 45 St & 8 Ave,40.75929124
+2022,E 60 St & York Ave,40.759107
+3016,Kent Ave & N 7 St,40.72036775298455
+3041,Kingston Ave & Herkimer St,40.67890679
+3042,Fulton St & Utica Ave,40.6794268
+3043,Lewis Ave & Decatur St,40.6814598
+3044,Albany Ave & Fulton St,40.6800105
+3046,Marcus Garvey Blvd & Macon St,40.682601
+3047,Halsey St & Tompkins Ave,40.6823687
+3048,Putnam Ave & Nostrand Ave,40.68402
+3049,Cambridge Pl & Gates Ave,40.68488
+3050,Putnam Ave & Throop Ave,40.6851532
+3052,Lewis Ave & Madison St,40.686312
+3053,Marcy Ave & Lafayette Ave,40.6900815
+3054,Greene Ave & Throop Ave,40.6894932
+3055,Greene Ave & Nostrand Ave,40.6883337
+3056,Kosciuszko St & Nostrand Ave,40.69072549
+3057,Kosciuszko St & Tompkins Ave,40.69128258
+3058,Lewis Ave & Kosciuszko St,40.69237074
+3059,Pulaski St & Marcus Garvey Blvd,40.6933982
+3060,Willoughby Ave & Tompkins Ave,40.69425403
+3061,Throop Ave & Myrtle Ave,40.69622937
+3062,Myrtle Ave & Marcy Ave,40.69539817
+3063,Nostrand Ave & Myrtle Ave,40.69527008
+3064,Myrtle Ave & Lewis Ave,40.69681963
+3065,Union Ave & Wallabout St,40.70029511
+3066,Tompkins Ave & Hopkins St,40.69957608
+3067,Broadway & Whipple St,40.7016657
+3068,Humboldt St & Varet St,40.7031724
+3069,Lorimer St & Broadway,40.70411791
+3070,McKibbin St & Manhattan Ave,40.70510918
+3071,Boerum St & Broadway,40.70538077
+3072,Leonard St & Boerum St,40.70583339
+3074,Montrose Ave & Bushwick Ave,40.70767788
+3075,Division Ave & Marcy Ave,40.70708701
+3076,Scholes St & Manhattan Ave,40.70870368
+3077,Stagg St & Union Ave,40.70877084
+3078,Broadway & Roebling St,40.70924826276157
+3080,S 4 St & Rodney St,40.70934
+3081,Graham Ave & Grand St,40.711863
+3082,Hope St & Union Ave,40.71167351
+3083,Bushwick Ave & Powers St,40.71247661
+3085,Roebling St & N 4 St,40.71469
+3086,Graham Ave & Conselyea St,40.715143
+3087,Metropolitan Ave & Meeker Ave,40.71413311
+3088,Union Ave & Jackson St,40.7160751
+3092,Berry St & N 8 St,40.7190095
+3093,N 6 St & Bedford Ave,40.71745169
+3094,Graham Ave & Withers St,40.7169811
+3095,Graham Ave & Herbert St,40.71929301
+3096,Union Ave & N 12 St,40.71924
+3100,Nassau Ave & Newell St,40.724812564400175
+3101,N 12 St & Bedford Ave,40.72079821
+3102,Driggs Ave & Lorimer St,40.72179134
+3105,N 15 St & Wythe Ave,40.724055
+3106,Driggs Ave & N Henry St,40.72325
+3107,Bedford Ave & Nassau Ave,40.72311651
+3108,Nassau Ave & Russell St,40.72557
+3109,Banker St & Meserole Ave,40.72606
+3110,Meserole Ave & Manhattan Ave,40.72708584
+3112,Milton St & Franklin St,40.72906
+3113,Greenpoint Ave & Manhattan Ave,40.73026
+3115,India St & Manhattan Ave,40.73232194
+3116,Huron St & Franklin St,40.73266
+3117,Franklin St & Dupont St,40.73564
+3118,McGuinness Blvd & Eagle St,40.73555
+3119,Vernon Blvd & 50 Ave,40.74232744
+3121,Jackson Ave & 46 Rd,40.74524768
+3122,48 Ave & 5 St,40.744363287066875
+3123,31 St & Thomson Ave,40.74469738
+3124,46 Ave & 5 St,40.74731
+3125,45 Rd & 11 St,40.74708586
+3126,44 Dr & Jackson Ave,40.74718234
+3127,9 St & 44 Rd,40.74966
+3128,21 St & 43 Ave,40.75052534
+3129,Queens Plaza North & Crescent St,40.75110165
+3130,21 St & Queens Plaza North,40.75325964
+3131,E 68 St & 3 Ave,40.76712840349542
+3132,E 59 St & Madison Ave,40.76350532
+3134,3 Ave & E 62 St,40.76312584
+3135,E 75 St & 3 Ave,40.77112927
+3136,5 Ave & E 63 St,40.766368
+3137,5 Ave & E 73 St,40.77282817
+3139,E 72 St & Park Ave,40.77118287540658
+3140,1 Ave & E 78 St,40.77140426
+3141,1 Ave & E 68 St,40.76500525
+3142,1 Ave & E 62 St,40.7612274
+3143,5 Ave & E 78 St,40.77632142182271
+3144,E 81 St & Park Ave,40.77677702
+3145,E 84 St & Park Ave,40.77862688
+3146,E 81 St & 3 Ave,40.77573034
+3147,E 85 St & 3 Ave,40.77801203
+3148,E 84 St & 1 Ave,40.77565541
+3150,E 85 St & York Ave,40.77536905
+3151,E 81 St & York Ave,40.7728384
+3152,3 Ave & E 71 St,40.76873687
+3154,E 77 St & 3 Ave,40.77314236
+3156,E 72 St & York Ave,40.76663814
+3157,East End Ave & E 86 St,40.77518615
+3158,W 63 St & Broadway,40.77163851
+3159,W 67 St & Broadway,40.77492513
+3160,Central Park West & W 76 St,40.77896784
+3161,W 76 St & Columbus Ave,40.7801839724239
+3163,Central Park West & W 68 St,40.7734066
+3164,Columbus Ave & W 72 St,40.7770575
+3165,Central Park West & W 72 St,40.77579376683666
+3166,Riverside Dr & W 72 St,40.78057799010334
+3167,Amsterdam Ave & W 73 St,40.77966809007312
+3168,Central Park West & W 85 St,40.78472675
+3169,Riverside Dr & W 82 St,40.78720869
+3170,W 84 St & Columbus Ave,40.78499979
+3171,Amsterdam Ave & W 82 St,40.78524672
+3172,W 74 St & Columbus Ave,40.7785669
+3173,Riverside Blvd & W 67 St,40.777507027547976
+3175,W 70 St & Amsterdam Ave,40.77748046
+3177,W 84 St & Broadway,40.7867947
+3178,Riverside Dr & W 78 St,40.78414472
+3179,Park Ave & Marcus Garvey Blvd,40.698617
+3184,Paulus Hook,40.7141454
+3185,City Hall,40.7177325
+3186,Grove St PATH,40.71958611647166
+3187,Warren St,40.7211236
+3191,Union St,40.7182113
+3192,Liberty Light Rail,40.7112423
+3193,Lincoln Park,40.7246050998869
+3194,McGinley Square,40.7253399253558
+3195,Sip Ave,40.73089709786179
+3196,Riverview Park,40.7443187
+3198,Heights Elevator,40.748715945380226
+3199,Newport Pkwy,40.7287448
+3201,Dey St,40.737711
+3202,Newport PATH,40.7272235
+3203,Hamilton Park,40.727595966
+3205,JC Medical Center,40.71653978099194
+3206,Hilltop,40.7311689
+3207,Oakland Ave,40.7376037
+3209,Brunswick St,40.7241765
+3210,Pershing Field,40.742677141
+3211,Newark Ave,40.72152515
+3212,Christ Hospital,40.734785818
+3213,Van Vorst Park,40.71848892
+3214,Essex Light Rail,40.7127742
+3220,5 Corners Library,40.734961020009514
+3221,47 Ave & 31 St,40.743
+3225,Baldwin at Montgomery,40.7236589
+3226,W 82 St & Central Park West,40.78275
+3231,E 67 St & Park Ave,40.76780080148132
+3232,Bond St & Fulton St,40.68962188790333
+3233,E 48 St & 5 Ave,40.75724567911726
+3235,E 41 St & Madison Ave,40.752165280621966
+3236,W 42 St & Dyer Ave,40.75898481399634
+3241,Monroe St & Tompkins Ave,40.686203
+3242,Schermerhorn St & Court St,40.69102925677968
+3243,E 58 St & 1 Ave (NE Corner),40.75892386377695
+3244,University Pl & E 8 St,40.73143724085228
+3246,Montague St & Clinton St,40.694281141397326
+3249,Verona Pl & Fulton St,40.6803560840434
+3255,8 Ave & W 31 St,40.7505853470215
+3256,Pier 40 - Hudson River Park,40.7277140777778
+3259,9 Ave & W 28 St,40.74937024193277
+3260,Mercer St & Bleecker St,40.72706363348306
+3263,Cooper Square & Astor Pl,40.72951496224949
+3267,Morris Canal,40.7124188237569
+3268,Lafayette Park,40.71346382669195
+3269,Brunswick & 6th,40.72601172964625
+3270,Jersey & 6th St,40.72528910781132
+3272,Jersey & 3rd,40.72333158646436
+3273,Manila & 1st,40.721650724879986
+3275,Columbus Drive,40.71835519823214
+3276,Marin Light Rail,40.71458403535893
+3277,Communipaw & Berry Lane,40.71435836870427
+3278,Monmouth and 6th,40.72568548362901
+3279,Dixon Mills,40.721630142638354
+3280,Astor Place,40.71928220070702
+3281,Leonard Gordon Park,40.74590996631558
+3282,5 Ave & E 88 St,40.78307
+3283,W 89 St & Columbus Ave,40.7882213
+3284,E 88 St & Park Ave,40.781410700190015
+3285,W 87 St & Amsterdam Ave,40.78839
+3286,E 89 St & 3 Ave,40.7806284
+3287,W 87 St & West End Ave,40.789622
+3288,E 88 St & 1 Ave,40.778301
+3289,W 90 St & Amsterdam Ave,40.79017948095081
+3290,E 89 St & York Ave,40.7779453
+3292,5 Ave & E 93 St,40.7857851
+3293,W 92 St & Broadway,40.7921
+3294,E 91 St & Park Ave,40.7835016
+3295,Central Park W & W 96 St,40.79127
+3296,E 93 St & 2 Ave,40.782454175279874
+3297,6 St & 7 Ave,40.6686627
+3298,Warren St & Court St,40.686371
+3299,E 98 St & Park Ave,40.78813
+3300,Prospect Park West & 8 St,40.66514681533792
+3301,Columbus Ave & W 95 St,40.7919557
+3302,Columbus Ave & W 103 St,40.7969347
+3303,Butler St & Court St,40.6849894
+3304,6 Ave & 9 St,40.668127
+3305,E 91 St & 2 Ave,40.78112229934166
+3306,10 St & 7 Ave,40.6662078
+3307,West End Ave & W 94 St,40.7941654
+3308,Kane St & Clinton St,40.6861758
+3309,E 97 St & 3 Ave,40.7859201
+3310,14 St & 7 Ave,40.663779
+3311,Columbia St & Kane St,40.68763155
+3312,1 Ave & E 94 St,40.7817212
+3313,6 Ave & 12 St,40.6663181
+3314,W 95 St & Broadway,40.7937704
+3315,Henry St & Degraw St,40.6847514
+3317,10 St & 5 Ave,40.6686273
+3318,2 Ave & E 96 St,40.7839636
+3319,14 St & 5 Ave,40.666287
+3320,Central Park West & W 100 St,40.79406660818552
+3321,Clinton St & Union St,40.6831164
+3322,12 St & 4 Ave,40.668603
+3323,W 106 St & Central Park West,40.7981856
+3324,3 Ave & 14 St,40.6685455
+3325,E 95 St & 3 Ave,40.7849032
+3326,Clinton St & Centre St,40.67434
+3327,3 Ave & E 100 St,40.7877214
+3328,W 100 St & Manhattan Ave,40.795
+3329,Degraw St & Smith St,40.6829151
+3330,Henry St & Bay St,40.6725058
+3331,Riverside Dr & W 104 St,40.8013434
+3332,Degraw St & Hoyt St,40.681990442707026
+3333,Columbia St & Lorraine St,40.6747055
+3335,Union St & 4 Ave,40.6772744
+3336,E 97 St & Madison Ave,40.787801
+3337,Dwight St & Van Dyke St,40.67363551341504
+3338,2 Ave & E 99 St,40.7862586
+3339,Berkeley Pl & 6 Ave,40.6765304
+3340,Wolcott St & Dwight St,40.6753274
+3341,Central Park West & W 102 St,40.795346
+3342,Pioneer St & Richards St,40.6777748
+3343,W 107 St & Columbus Ave,40.7997568
+3344,Pioneer St & Van Brunt St,40.679043
+3345,Madison Ave & E 99 St,40.78948541553215
+3346,Berkeley Pl & 7 Ave,40.675146838709786
+3347,Van Brunt St & Wolcott St,40.6773429
+3348,Coffey St & Conover St,40.677236
+3349,Grand Army Plaza & Plaza St West,40.6729679
+3350,W 100 St & Broadway,40.7973721
+3351,E 102 St & 1 Ave,40.7869946
+3352,Sigourney St & Columbia St,40.67267243410948
+3354,3 St & Prospect Park West,40.668132
+3355,E 66 St & Madison Ave,40.76800889305947
+3356,Amsterdam Ave & W 66 St,40.7746671
+3357,W 106 St & Amsterdam Ave,40.8008363
+3358,Garfield Pl & 8 Ave,40.6711978
+3359,E 68 St & Madison Ave,40.7691572
+3360,Amsterdam Ave & W 79 St,40.7829391
+3361,Carroll St & 6 Ave,40.6740886
+3362,Madison Ave & E 82 St,40.7781314
+3363,E 102 St & Park Ave,40.7904828
+3364,Carroll St & 5 Ave,40.6751622
+3365,3 St & 7 Ave,40.6703837
+3366,West End Ave & W 107 St,40.8021174
+3367,5 Ave & E 103 St,40.7922553
+3368,5 Ave & 3 St,40.6728155
+3369,E 82 St & East End Ave,40.7724607
+3370,E 78 St & 2 Ave,40.7727966
+3372,E 74 St & 1 Ave,40.7689738
+3373,3 St & 3 Ave,40.6750705
+3374,Central Park North & Adam Clayton Powell Blvd,40.799484
+3375,3 Ave & E 72 St,40.7699426
+3376,E 65 St & 2 Ave,40.76471851944339
+3377,Carroll St & Bond St,40.6786115
+3378,E 76 St & Park Ave,40.773763
+3379,E 103 St & Lexington Ave,40.7903051
+3381,3 St & Hoyt St,40.6777287
+3382,Carroll St & Smith St,40.680611
+3383,Cathedral Pkwy & Broadway,40.804213
+3384,Smith St & 3 St,40.6787242
+3386,1 Pl & Clinton St,40.6809591
+3387,E 106 St & Madison Ave,40.7934337
+3388,President St & Henry St,40.6828003
+3389,Carroll St & Columbia St,40.6830456
+3390,E 109 St & 3 Ave,40.79329668
+3391,E 106 St & 1 Ave,40.7892529
+3392,Commerce St & Van Brunt St,40.6812117
+3393,Richards St & Delavan St,40.6794327
+3394,Columbia St & W 9 St,40.6769993
+3395,Henry St & W 9 St,40.6763744
+3396,Clinton St & 4 Place,40.6783563
+3397,Court St & Nelson St,40.6763947
+3398,Smith St & 9 St,40.6746957
+3399,7 St & 3 Ave,40.67260298150126
+3400,E 110 St & Madison Ave,40.7961535
+3402,Court St & State St,40.6902375
+3403,4 Ave & 9 St,40.6705135
+3404,7 St & 5 Ave,40.6704922
+3405,5 St & 6 Ave,40.6704836
+3407,Union St & Nevins St,40.67909799721684
+3408,Congress St & Clinton St,40.6881529
+3409,Bergen St & Smith St,40.6867443
+3410,Dean St & Hoyt St,40.6864442
+3411,Bond St & Bergen St,40.6849668
+3412,Pacific St & Nevins St,40.6853761
+3414,Bergen St & Flatbush Ave,40.680944723477296
+3415,Prospect Pl & 6 Ave,40.6793307
+3416,7 Ave & Park Pl,40.6776147
+3417,Baltic St & 5 Ave,40.6795766
+3418,Plaza St West & Flatbush Ave,40.6750207
+3419,Douglass St & 4 Ave,40.6792788
+3420,Douglass St & 3 Ave,40.6802133
+3421,Hoyt St & Warren St,40.6843549
+3422,Columbia St & Degraw St,40.6859296
+3423,West Drive & Prospect Park West,40.6610633719006
+3424,E 106 St & Lexington Ave,40.791976
+3425,2 Ave & E 104 St,40.7892105
+3429,Hanson Pl & Ashland Pl,40.68506807308177
+3430,Richardson St & N Henry St,40.71907891179564
+3435,Grand St & Elizabeth St,40.718822
+3437,Riverside Dr & W 91 St,40.79313480986663
+3440,Fulton St & Adams St,40.692418292578466
+3443,W 52 St & 6 Ave,40.76132983124814
+3452,Bayard St & Leonard St,40.71915571696044
+3453,Devoe St & Lorimer St,40.71335226222875
+3454,Leonard St & Maujer St,40.7103685423523
+3456,Jackson St & Leonard St,40.71638031973561
+3457,E 58 St & Madison Ave,40.76302594280519
+3461,Murray St & Greenwich St,40.714851505262516
+3463,E 16 St & Irving Pl,40.735367055605394
+3467,W Broadway & Spring St,40.72494672359416
+3469,India St & West St,40.73181401720966
+3472,W 15 St & 10 Ave,40.742753828659026
+3477,39 St & 2 Ave,40.65539977447831
+3478,2 Ave & 36 St,40.65708866668485
+3481,York St,40.71649
+3483,Montgomery St,40.71942
+3486,Schermerhorn St & Bond St,40.688417427540834
+3490,E 116 St & 2 Ave,40.796879
+3491,E 118 St & 1 Ave,40.79747
+3492,E 118 St & Park Ave,40.8005385
+3493,E 118 St & 3 Ave,40.799139
+3494,E 115 St & Lexington Ave,40.797911
+3495,E 114 St & 1 Ave,40.7945663
+3496,1 Ave & E 110 St,40.7923272
+3497,Pleasant Ave & E 116 St,40.7949879
+3498,Pleasant Ave & E 120 St,40.7974772
+3499,2 Ave & E 122 St,40.8006721
+3500,E 115 St & Madison Ave,40.7989445
+3501,E 118 St & Madison Ave,40.8014866
+3502,Lexington Ave & E 111 St,40.7954121
+3503,Madison Ave & E 120 St,40.80295
+3504,E 123 St & Lexington Ave,40.8029263
+3505,Lexington Ave & E 127 St,40.805726
+3506,Lexington Ave & E 120 St,40.8013066
+3507,Park Ave & E 124 St,40.8045555
+3508,St Nicholas Ave & Manhattan Ave,40.809725
+3509,Lenox Ave & W 115 St,40.8011939
+3510,Adam Clayton Powell Blvd & W 123 St,40.8078316
+3511,Adam Clayton Powell Blvd & W 115 St,40.802535
+3513,21 St & Hoyt Ave S,40.774645
+3514,Astoria Park S & Shore Blvd,40.7767
+3515,24 Ave & 26 St,40.774591
+3516,31 St & Astoria Blvd,40.7699176
+3517,31 St & Hoyt Ave N,40.7711528
+3518,Lenox Ave & W 126 St,40.808442
+3520,Adam Clayton Powell Blvd & W 118 St,40.804372
+3521,Lenox Ave & W 111 St,40.7987859
+3522,37 St & 24 Ave,40.7701477
+3523,24 Ave & 29 St,40.7729
+3524,19 St & 24 Ave,40.7774552
+3525,23 Ave & 27 St,40.776165
+3526,31 St & 23 Ave,40.7747878
+3527,5 Ave & E 126 St,40.80698
+3528,Steinway St & 23 Ave,40.7713937
+3529,Lenox Ave & W 130 St,40.8107922
+3530,Crescent St & Ditmars Blvd,40.7787185
+3531,Frederick Douglass Blvd & W 129 St,40.8125511
+3532,Ditmars Blvd & 19 St,40.78145
+3533,St. Nicholas Ave & W 126 St,40.8114323
+3534,Frederick Douglass Blvd & W 117 St,40.805159
+3535,Mt Morris Park W & W 120 St,40.804038
+3536,W 116 St & Broadway,40.8082
+3537,Carlton Ave & Dean St,40.6809741
+3538,W 110 St & Amsterdam Ave,40.802692
+3539,W 116 St & Amsterdam Ave,40.8067581
+3540,Morningside Ave & W 123 St,40.81
+3541,Amsterdam Ave & W 125 St,40.813358
+3542,Amsterdam Ave & W 119 St,40.8086249
+3543,Morningside Dr & Amsterdam Ave,40.81028506306003
+3544,Underhill Ave & Pacific St,40.6804836
+3545,Broadway & W 122 St,40.8120562
+3546,Pacific St & Classon Ave,40.6791944
+3547,Broadway & Moylan Pl,40.8143256
+3549,Grand Ave & Bergen St,40.678045
+3551,3 Ave & E 112 St,40.795508
+3552,W 113 St & Broadway,40.805973
+3553,Frederick Douglass Blvd & W 112 St,40.801694
+3554,Vernon Blvd & 41 Rd,40.7552433
+3555,28 St & 41 Ave,40.751047
+3557,40 Ave & 9 St,40.75742
+3558,Bergen St & Vanderbilt Ave,40.6794388
+3559,21 St & 38 Ave,40.7576314
+3561,37 Ave & 35 St,40.7531106
+3562,Classon Ave & St Marks Ave,40.6765198
+3563,28 St & 36 Ave,40.757186
+3564,21 St & 36 Ave,40.7601853
+3565,36 Ave & 10 St,40.7614376
+3566,Crescent St & 35 Ave,40.7596276
+3567,11 St & 35 Ave,40.7627442
+3568,34 St & 35 Ave,40.7569332
+3569,Franklin Ave & St Marks Ave,40.6758324
+3570,35 Ave & 37 St,40.7557327
+3571,Bedford Ave & Bergen St,40.676368
+3572,34 Ave & 38 St,40.756913
+3573,35 St & 34 Ave,40.7580583
+3574,Prospect Pl & Underhill Ave,40.6769694
+3575,Crescent St & 34 Ave,40.76108
+3576,Park Pl & Vanderbilt Ave,40.6767
+3577,34 Ave & 21 St,40.7628138
+3578,Park Pl & Franklin Ave,40.6741806
+3579,Sterling Pl & Bedford Ave,40.672695
+3580,St Johns Pl & Washington Ave,40.6737236
+3581,Underhill Ave & Lincoln Pl,40.6740123
+3582,Lincoln Pl & Classon Ave,40.6721683
+3583,Eastern Pkwy & Washington Ave,40.6716493
+3584,Eastern Pkwy & Franklin Ave,40.6707767
+3585,Union St & Bedford Ave,40.6691783
+3586,34 Ave & 13 St,40.7638753
+3587,Carroll St & Washington Ave,40.6686744
+3588,Vernon Blvd & 10 St,40.7671863
+3589,Broadway & 12 St,40.7668
+3590,Carroll St & Franklin Ave,40.6679411
+3591,21 St & 31 Dr,40.7659
+3592,Crescent St & Broadway,40.7633589
+3593,31 St & Broadway,40.761584
+3595,35 St & Broadway,40.760339
+3596,Sullivan Pl & Bedford Ave,40.6642406
+3597,43 St & Broadway,40.7577284
+3598,Newton Rd & 44 St,40.7595701
+3599,Franklin Ave & Empire Blvd,40.66314
+3600,31 Ave & Steinway St,40.7611488
+3601,Sterling St & Bedford Ave,40.6627059
+3602,31 Ave & 34 St,40.763154
+3603,31 Ave & 30 St,40.7647
+3604,Rogers Ave & Sterling St,40.6630619
+3605,31 Ave & Crescent St,40.7658346
+3606,49 Ave & 21 St,40.74252
+3607,31 Ave & 14 St,40.7682
+3608,5 St & 51 Ave,40.7423737
+3609,Vernon Blvd & 31 Ave,40.7692475
+3610,Vernon Blvd & 30 Rd,40.770845
+3611,Vernon Blvd & 47 Rd,40.7449067
+3612,30 Ave & 21 St,40.7703743
+3613,Center Blvd & 48 Ave,40.745038
+3614,Crescent St & 30 Ave,40.768692
+3615,44 Dr & 21 St,40.748
+3616,Steinway St & 28 Ave,40.7656251
+3617,28 Ave & 35 St,40.7671
+3618,27 St & Hunter St,40.7485
+3619,Newtown Ave & 23 St,40.7713615
+3620,11 St & 43 Ave,40.7519071
+3621,27 Ave & 9 St,40.7739825
+3622,E 128 St & Madison Ave,40.80756
+3623,W 120 St & Claremont Ave,40.8109494
+3628,Lenox Ave & W 117 St,40.8025566
+3629,Adam Clayton Powell Blvd & W 126 St,40.809495347779475
+3630,Frederick Douglass Blvd & W 115 St,40.8038654
+3637,Fulton St & Waverly Ave,40.683238654603414
+3638,Washington St,40.7242941
+3639,Harborside,40.7192517
+3640,Journal Square,40.73367
+3641,Broadway & W 25 St,40.74286877312112
+3646,35 Ave & 10 St,40.76315481910373
+3647,48 Ave & 30 Pl,40.74128309355993
+3648,Flushing Ave & Vanderbilt Ave,40.697950315695444
+3649,W 129 St & Convent Ave,40.814394437915816
+3654,31 St & Northern Blvd,40.75186951421875
+3656,E 2 St & Avenue A,40.72307749068673
+3658,W 18 St & 9 Ave,40.7435337324616
+3661,Montgomery St & Franklin Ave,40.666439306870814
+3664,North Moore St & Greenwich St,40.72019521437465
+3668,Leonard St & Nassau Ave,40.7239567849954
+3671,E 81 St & 2 Ave,40.774779448957275
+3673,Dean St & Franklin Ave,40.67759206937376
+3674,Jay St & York St,40.701403172577244
+3676,Van Brunt St & Van Dyke St,40.6758329439129
+3677,Glenwood Ave,40.72755146730012
+3678,Fairmount Ave,40.72572613742557
+3679,Bergen Ave,40.722103786686034
+3680,E 43 St & 5 Ave,40.754120810779256
+3681,Grand St,40.71517767732029
+3686,Gansevoort St & Hudson St,40.739448201304036
+3687,E 33 St & 1 Ave,40.74322681432173
+3689,W 104 St & Amsterdam Ave,40.799041392882984
+3690,Park Pl & Church St,40.71334184275907
+3691,28 Ave & 44 St,40.76408932350688
+3693,N 11 St & Kent Ave,40.72248188638219
+3694,Jackson Square,40.71113
+3697,W 64 St & Thelonious Monk Circle,40.77515953434235
+3699,W 50 St & 9 Ave,40.763604677958625
+3704,47 Ave & Skillman Ave,40.7437524099784
+3707,Lexington Ave & E 26 St,40.741459
+3708,W 13 St & 5 Ave,40.735445
+3709,W 15 St & 6 Ave,40.738046142482766
+3711,E 13 St & Avenue A,40.72966729392978
+3712,W 35 St & Dyer Ave,40.754691750226016
+3714,Division Ave & Hooper St,40.70684203101325
+3715,Driggs Ave & N 9 St,40.71816969454208
+3716,40 Ave & Crescent St,40.753599202005596
+3718,E 11 St & Avenue B,40.72746420692392
+3721,31 St & Newtown Ave,40.7675487799971
+3723,Cadman Plaza E & Johnson St,40.695317277669034
+3724,7 Ave & Central Park South,40.7667405590595
+3725,2 Ave & E 72 St,40.7687620293096
+3726,Center Blvd & 51 Ave,40.743366080270214
+3727,Frost St & Meeker Ave,40.71766197083994
+3728,Pierrepont St & Monroe Pl,40.69535693320225
+3731,W 47 St & 6 Ave,40.758397
+3733,Avenue C & E 18 St,40.730563
+3734,E 58 St &  1 Ave (NW Corner),40.759125
+3735,W 30 St & 10 Ave,40.752694
+3736,E 12 St & Ave C,40.727243
+3737,Stanton St & Norfolk St,40.720747
+3738,Delancey St & Eldridge St,40.719383
+3739,Perry St & Greenwich Ave,40.735918
+3740,W Broadway & W Houston St,40.726378
+3744,1 Ave & E 5 St,40.725864
+3745,36 Ave & 31 St,40.75651272984955
+3746,6 Ave & Broome St,40.724308321602166
+3749,Lexington Ave & E 36 St,40.747573958954796
+3755,DeKalb Ave & Franklin Ave,40.69064807082943
+3756,White St & Moore St,40.704508
+3757,Stagg St & Morgan Ave,40.710681
+3758,George St & Wilson Ave,40.702997
+3759,Irving Ave & Jefferson St,40.70538
+3760,Willoughby Ave & Wyckoff Ave,40.705614
+3761,Cedar St & Myrtle Ave,40.697842
+3762,3 Ave & Carroll St,40.677027
+3763,Wyckoff Av & Jefferson St,40.707165
+3764,Bushwick Ave & McKibbin St,40.705517
+3765,Bushwick Ave & Stagg St,40.709897
+3766,Sharon St & Olive St,40.715353
+3767,Powers St & Olive St,40.71323
+3768,Waterbury St & Stagg St,40.71019
+3769,White St & Johnson Ave,40.707174
+3770,Central Ave & Flushing Ave,40.702831
+3771,McKibbin St & Bogart St,40.706237
+3772,Devoe St & Morgan Ave,40.713811
+3773,Knickerbocker Ave & Thames St,40.70539
+3774,Knickerbocker Ave & George St,40.704425
+3775,Suydam St & Knickerbocker Ave,40.702013
+3776,Central Ave & Starr Street,40.700003
+3777,Stockholm St & Wilson Ave,40.699304
+3778,Irving Ave & DeKalb Ave,40.7027
+3779,Hart St & Wyckoff Ave,40.704876
+3780,Wyckoff Av & Stanhope St,40.703545
+3781,Greene Av & Myrtle Av,40.698568
+3782,Brooklyn Bridge Park - Pier 2,40.698458
+3783,Cliff St & Fulton St,40.70838
+3785,W 42 St & 6 Ave,40.75492
+3786,Division St & Bowery,40.714193
+3787,Dock 72 Way & Market St,40.69985
+3789,Fulton St & Irving Pl,40.68186
+3790,Henry St & Middagh St,40.7003
+3791,Hoboken Ave at Monmouth St,40.73520838045357
+3792,Columbus Dr at Exchange Pl,40.71687
+3795,10 St & 2 Ave,40.671907
+3798,W 40 St & 5 Ave,40.752269
+3799,6 Ave & W 34 St,40.74964
+3803,Bedford Ave & Montgomery St,40.665816
+3804,Front St & Jay St,40.702461
+3808,24 St & 41 Ave,40.752474
+3809,W 55 St & 6 Ave,40.763189
+3811,27 Ave & 3 St,40.77485
+3812,University Pl & E 14 St,40.734814
+3814,E 56 St & Madison Ave,40.761573
+3815,E 51 St & 2 Ave,40.755293
+3816,Metropolitan Ave & Vandervoort Ave,40.71429
+3817,Withers St & Kingsland Ave,40.71773
+3818,Calyer St & Jewel St,40.72984
+3819,Green St & McGuinness Blvd,40.73396
+3820,Willoughby Ave & Myrtle Ave,40.69757
+3821,Evergreen Ave & Noll St,40.70106
+3822,Bushwick Ave & Forrest St,40.70076
+3823,Beaver St & Fayette St,40.70099
+3824,Van Sinderen Ave & Truxton St,40.6786
+3825,Broadway & Furman Ave,40.68139
+3826,Moffat St & Bushwick,40.68458
+3827,Halsey St & Broadway,40.68565
+3828,Eldert St & Bushwick Ave,40.68652
+3829,Central Ave & Decatur St,40.6882
+3830,Halsey St & Evergreen Ave,40.68858
+3831,Broadway & Hancock St,40.68663
+3832,Central Ave & Weirfield St,40.69055
+3833,Madison St & Evergreen Ave,40.69122
+3834,Irving Ave & Halsey St,40.69467
+3835,Knickerbocker Ave & Hancock St,40.69385
+3836,Bushwick Ave & Linden St,40.69146
+3837,Broadway & Kosciuszko St,40.69329
+3838,Bushwick Ave & Harman St,40.69356
+3839,Putnam Ave & Knickerbocker Ave,40.69545
+3840,Putnam Ave & Wyckoff Ave,40.69811
+3841,Menahan St & Central Ave,40.69543
+3842,Bushwick Ave & Dekalb Ave,40.69502
+3843,Myrtle Ave & Grove St,40.69905
+3844,Myrtle Ave & Linden St,40.69943
+3845,Irving Ave & Harman St,40.70108
+3846,Central Ave & Himrod St,40.69676
+3847,Cedar St & Evergreen Ave,40.69671
+3848,Suydam St & Broadway,40.69544
+3849,Suydam St & St. Nicholas Ave,40.70636
+3850,Jefferson St & Cypress Ave,40.70907
+3851,Metropolitan Ave & Stewart Ave,40.71401
+3852,Stewart Ave & Johnson Ave,40.70869
+3853,Harrison Pl & Porter Ave,40.70686
+3854,Morgan Ave & Maspeth Ave,40.716657
+3855,Frost St & Debevoise Ave,40.71882
+3856,Kingsland Ave & Nassau Ave,40.72577
+3857,Engert Ave & McGuinness Blvd,40.72158
+3858,Kent St & McGuinness Blvd,40.73124
+3859,Lorimer St & Calyer St,40.72795
+3860,Wilson Ave & Troutman St,40.70166
+3861,Menahan St & Wyckoff Ave,40.70113
+3862,Linden St & Knickerbocker Ave,40.69714
+3863,Central Ave & Woodbine St,40.69296
+3864,Central Ave & Covert St,40.68929
+3865,Knickerbocker Ave & Cooper St,40.69081
+3866,Wilson Ave & Moffat St,40.68906
+3867,Somers St & Broadway,40.67945
+3868,Knickerbocker Ave & Halsey St,40.693
+3869,Van Buren St & Broadway,40.692
+3870,Melrose St & Broadway,40.697481
+3871,Bushwick Ave & Furman Ave,40.68281
+3872,Hancock St & Wyckoff Ave,40.6972
+3873,Madison St & Cypress Ave,40.70068
+3874,Menahan St & Seneca Ave,40.70461
+3875,Stephen St & Seneca Ave,40.6988
+3876,Forest Ave & Summerfield St,40.69922
+3877,Madison St & Forest Ave,40.70555
+3878,Cypress Ave & George St,40.69812
+3879,Broadway & Madison St,40.68822
+3880,Willoughby Ave & Onderdonk Ave,40.7098
+3881,12 Ave & W 125 St,40.818299
+3882,Norman St & Wyckoff Ave,40.69517
+3883,Harman St & Seneca Ave,40.70577
+3884,Centre St & Seneca Ave,40.69969
+3885,Onderdonk Ave & Gates Ave,40.70413
+3886,Menahan St & Onderdonk Ave,40.70553
+3887,Flushing Ave & Woodward Ave,40.71246
+3888,Woodward Ave & Harman St,40.70793
+3890,Grove St & Broadway,40.69047
+3891,Irving Ave & Palmetto St,40.698
+3892,38 Ave & 29 St,40.75473
+3893,Rockaway Ave & Bainbridge St,40.68319988172761
+3895,Cypress Ave & Palmetto St,40.701573408737914
+3896,Madison St & Seneca Ave,40.70183
+3897,Onderdonk Ave & Dekalb Ave,40.70863
+3898,E 63 St & 3 Ave,40.763954
+3899,Manhattan Av & Leonard St,40.72084
+3900,Morgan Ave & Lombardy St,40.72226
+3901,Stanhope St & Fairview Ave,40.70998
+3902,Fairview Ave & Linden St,40.70694
+3903,Jefferson Ave & Evergreen Ave,40.68989
+3905,4 Ave & E 12 St,40.732647
+3906,West St & Liberty St,40.711444
+3907,Central Ave & Melrose St,40.70112
+3909,Madison St & Woodward Ave,40.70408
+3910,Greene Ave & Grandview Ave,40.709697
+3911,Wyckoff St & Nevins St,40.683426
+3913,Sands St Gate,40.699569
+3914,West End Ave & W 78 St,40.783786
+3916,Pearl St & Peck Slip,40.708485
+3917,Willoughby St & Ashland Pl,40.69178
+3918,Avenue D & E 8 St,40.72387
+3919,Wall St & South St,40.70437
+3920,E 132 St & Madison Ave,40.810224
+3921,Willis Ave & Bruckner Blvd,40.805701
+3923,Lincoln Ave & E 134 St,40.808484
+3924,Lincoln Ave & E 138 St,40.810893
+3926,5 Ave & W 131 St,40.81014
+3929,Willis Ave & E 141 St,40.81093
+3931,Morris Ave & E 142 St,40.814469
+3932,Grand Concourse & E 144 St,40.816576
+3935,Amsterdam Ave & W 131 St,40.816355
+3986,E 149 St & Morris Ave,40.81734
+3988,E 128 St & 3 Ave,40.805631
+3989,Willis Ave & E 137 St,40.808384
+3992,W 169 St & Fort Washington Ave,40.8428422
+3993,W 59 St & West End Ave,40.771771
+3994,2 Av & E 125 St,40.802554
+3995,5 Av & E 135 St,40.812191
+3996,Lexington Ave & E 128 St,40.806414
+3998,West 135 St & Lenox Terrace Pl,40.813619
+4016,Adam Clayton Powell Blvd & W 130 St,40.812346
